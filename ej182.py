@@ -14,6 +14,6 @@ plt.scatter(x,y)
 plt.plot(t,analitic)
 plt.savefig("segundord.pdf")
 plt.clf()
-plt.scatter(z,y)
+plt.scatter(y,z)
 plt.savefig("Zvsy")
 

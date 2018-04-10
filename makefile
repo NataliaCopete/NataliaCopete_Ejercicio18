@@ -10,7 +10,7 @@ valores.txt:
 segunda:segundord.pdf Zvsy.pdf
 
 
-segundord.pdf:valores2.txt
+segundord.pdf Zvsy.pdf:valores2.txt
 	python ej182.py
 
 valores2.txt:
